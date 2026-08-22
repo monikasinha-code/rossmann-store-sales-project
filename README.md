@@ -27,7 +27,7 @@ Rossmann operates over 3,000 drugstores across 7 European countries. Store manag
 ---
 
 ## 3. Key Findings & Feature Importance
-* **Store Baseline & Location (`Store` & `CompetitionDistance`):** Individual store identity (~**21.4%**) and distance to the nearest competitor (~**20.5%**) serve as the most critical structural factors establishing baseline sales capacity and local market competition.
+* **Store Baseline & Location (`Store` & `CompetitionDistance`):** Individual store identity (**21.4%**) and distance to the nearest competitor (**20.5%**) serve as the most critical structural factors establishing baseline sales capacity and local market competition.
 * **Promotional Impact (`Promo`):** Active promotional campaigns account for (~**16.8%**) of the model's decision-making power, capturing immediate customer surges during marketing windows.
 * **Temporal & Operational Cycles (`DayOfWeek`, `Month`, & Competition Open Dates):** Day-of-week shopping patterns, seasonal months, and competitor tenure provide the remaining essential signals to fine-tune daily store forecasts.
 
